@@ -18,7 +18,7 @@ spec:
         app: web-app
     spec:
       containers:
-      - image: sshector294/test:13
+      - image: sshector294/test:14
         name: web-app
         resources: {}
 status: {}
